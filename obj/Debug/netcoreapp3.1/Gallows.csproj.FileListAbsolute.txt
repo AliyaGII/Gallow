@@ -1,0 +1,13 @@
+D:\prog\C#\Gallows\bin\Debug\netcoreapp3.1\Gallows.exe
+D:\prog\C#\Gallows\bin\Debug\netcoreapp3.1\Gallows.deps.json
+D:\prog\C#\Gallows\bin\Debug\netcoreapp3.1\Gallows.runtimeconfig.json
+D:\prog\C#\Gallows\bin\Debug\netcoreapp3.1\Gallows.runtimeconfig.dev.json
+D:\prog\C#\Gallows\bin\Debug\netcoreapp3.1\Gallows.dll
+D:\prog\C#\Gallows\bin\Debug\netcoreapp3.1\Gallows.pdb
+D:\prog\C#\Gallows\obj\Debug\netcoreapp3.1\Gallows.csprojAssemblyReference.cache
+D:\prog\C#\Gallows\obj\Debug\netcoreapp3.1\Gallows.AssemblyInfoInputs.cache
+D:\prog\C#\Gallows\obj\Debug\netcoreapp3.1\Gallows.AssemblyInfo.cs
+D:\prog\C#\Gallows\obj\Debug\netcoreapp3.1\Gallows.csproj.CoreCompileInputs.cache
+D:\prog\C#\Gallows\obj\Debug\netcoreapp3.1\Gallows.dll
+D:\prog\C#\Gallows\obj\Debug\netcoreapp3.1\Gallows.pdb
+D:\prog\C#\Gallows\obj\Debug\netcoreapp3.1\Gallows.genruntimeconfig.cache
